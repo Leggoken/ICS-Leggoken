@@ -287,8 +287,16 @@ body{
 	background white:
 }
 .main{
-	background:#123456;
+	background:#444444;
 	height:400px;
 	height:175px;
 	margin:100px auto;
+}
+.badge{
+	width: 96px;
+	background:#456456;
+	color:white;
+	padding: 5px 10px;
+	font-family: sans-serif;
+	font-weight: bold;
 }
