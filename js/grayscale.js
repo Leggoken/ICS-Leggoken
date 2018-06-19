@@ -192,3 +192,4 @@ function init() {
     icon: image
   });
 }
+console.log('hello')
