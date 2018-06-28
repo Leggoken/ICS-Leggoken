@@ -191,5 +191,5 @@ function init() {
     map: map,
     icon: image
   });
-}
-console.log('hello')
+
+  
